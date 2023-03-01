@@ -31,7 +31,7 @@ const HomePage = () => {
                     
                     <a href="https://play.google.com/store/apps/details?id=com.tournafest.tournafest" target="_blank" rel="noreferrer">
                     <button className="btn">   
-                        <div className="icon"><img src={android} alt=""/></div>
+                        <div className="icon2"><img src={android} alt=""/></div>
                         <div className="btn-content">
                             <span>Get it on</span>
                             <p>Google Play</p>
